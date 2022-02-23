@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of divers of the knights, gentry, and other inhabitants of the county of Berkes, to the Kings most excellent Maiesty concerning a sudden accomodation of peace with his court of Parliament with his Majesties gracious answer to the said petition.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45002</idno>
+            <idno type="STC">Wing H3460</idno>
+            <idno type="STC">ESTC R6092</idno>
+            <idno type="EEBO-CITATION">12142096</idno>
+            <idno type="OCLC">ocm 12142096</idno>
+            <idno type="VID">54859</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54859)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E85, no 6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of divers of the knights, gentry, and other inhabitants of the county of Berkes, to the Kings most excellent Maiesty concerning a sudden accomodation of peace with his court of Parliament with his Majesties gracious answer to the said petition.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I). His Majesties gracious answer to a petition from the county of Berkes.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Hanson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Berkshire (England) --  History --  Sources.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:54859:1"/>
+            <!-- PDF PAGE 74 -->
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Sabbathii,</hi> 14<hi rend="sup">o</hi> 
+                     <hi>Ianuarii,</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>IT is this day Ordered by the COMMONS now Aſſembled in Parliament, That Mr. <hi>Pym</hi> be deſired to publiſh in Print, what yeſterday he did by order of both Houſes at the Common-Hall: And that none do preſume to Print or re<g ref="char:EOLhyphen"/>print it, but ſuch as <hi>Iohn Hinde</hi> ſhall appoint.</p>
+            <closer>
+               <signed>H: Elſynge, Cler: Parl: D: Com.</signed>
+            </closer>
+            <postscript>
+               <p>I appoint <hi>Peter Cole</hi> to Print this Copy:</p>
+               <closer>
+                  <signed>JOHN HINDE.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:54859:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <p>TVVO SPEECHES SPOKEN BY The Earl of Mancheſter, and Jo: PYM <abbr>Eſq</abbr> AS A REPLY TO His MAIESTIES ANSVVER to the City of Londons Petition, ſent from His MAjESTY By CAPTAIN HEARN, And read at a Common-Hall, on Friday the 13<hi rend="sup">th</hi> of JANUARY, 1642.</p>
+            <p>Alſo, a true Narration of the paſſages of that day.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Commons in Parliament, That theſe Speeches be forthwith printed and publiſhed:</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler: Parl: D: Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Peter Cole,</hi> and are to be ſold at his ſhop at the ſign of the Glove and Lyon in Corn<g ref="char:EOLhyphen"/>wall, neer the Royall Exchange. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:54859:2"/>
+            <!-- PDF PAGE 75 -->
+            <pb n="1" facs="tcp:54859:2"/>
+            <!-- PDF PAGE 75 -->
+            <head>An Introduction.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat Obſervation, mans extremities are Gods op<g ref="char:EOLhyphen"/>portunities, was never more abundantly and experimentally made good, then in theſe latter dayes, and in none of theſe more then on Friday the 13. of <hi>Ianuary,</hi> 1642. in and toward the City of London, where his Majeſties unexpected anſwer to an humble Petition preſented to his Majeſtie at Oxford, from the Lord Major and Common Councell of that Honorable Citie, made many ſad hearts; not onely in regard that all the un<g ref="char:EOLhyphen"/>wearied and loyall endeavours of Parliament and Citle (with other parts of the Kingdome) have made no deeper impreſſi<g ref="char:EOLhyphen"/>on upon his Majeſties heart (the greateſt treaſure for which they have contended) but alſo in ſome doubtfull expectation what advantage ſuch ſpirits might have made of it, at leaſt to the unſetling of the peace, and diſuniting the ſpirits of the Citi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, who ſteere all their actions by that maxime of Poli<g ref="char:EOLhyphen"/>cie, <hi>Divide &amp; impera,</hi> divide, and doe what you will: The ra<g ref="char:EOLhyphen"/>ther when they obſerved that the counſell of ſome not ſo well wiſhers certainly to the publike ſafetie, as to their owne private intereſts had prevailed with his Majeſtie, that His anſwer ſhould be publiſhed in a Common Hall, by His Maj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſties expreſſe meſſenger for that purpoſe, when as the Petition was humbly tendered to His Majeſtie from a Com<g ref="char:EOLhyphen"/>mon Councell. To avoyd all inconveniences, it pleaſed the wiſedome and goodneſſe of Heaven to direct the Parliament to chuſe an honorable Committee of Lords and Commons to be preſent at the reading thereof; and the Governours of the Citie to order that all the Companies ſhould firſt meete at their ſeverall Halls, and then come in their Citie habits to the Guildhall, where his Majeſties anſwer was to be read: When the Committee of both Houſes, with the Lord Maior, Aldermen, and ſuch a confluence of Liverie men as hath not beene ſeene there (in the memory of the eldeſt man in the Citie) being met, the Lord Maior commanded the Towne Clerke to reade in the audience of that great Aſ<g ref="char:EOLhyphen"/>ſembly, the Cities Petition, which here followes:</p>
+            <q>
+               <pb n="2" facs="tcp:54859:3"/>
+               <!-- PDF PAGE 76 -->
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To The Kings moſt Excellent MAIESTY. The humble Petition of the Major, Alder<g ref="char:EOLhyphen"/>men, and Commons, of the City of <hi>London.</hi>
+                        </head>
+                        <opener>Sheweth,</opener>
+                        <p>
+                           <seg rend="decorInit">T</seg>Hat the Petitioners, Your Majeſties moſt humble and loyall Subjects, being much pierced with the long and great diviſions betweene Your Majeſty and both Your Houſes of Parliament, and with the ſad and bloudy effects thereof, both here and in <hi>Ireland,</hi> are yet more deeply woun<g ref="char:EOLhyphen"/>ded by the miſ-apprehenſion which your Majeſty ſeemeth to entertaine, of the love and loyalty of this Your City, as if there were ſome cauſe of feare, or ſuſpicion of danger to Your Royall Perſon, if Your Majeſty ſhould returne hither; And that this is made the unhappy Bar to that bleſſed Reconciliation with Your great and moſt Faithfull Councell, for pre<g ref="char:EOLhyphen"/>venting that deſolation and deſtruction, which is now moſt apparently imminent to your Majeſty and all your Kingdomes.</p>
+                        <p>For ſatisfaction therefore of your Majeſty, and
+<pb n="3" facs="tcp:54859:3"/>
+                           <!-- PDF PAGE 76 -->clearing of the Petitioners innocency, they moſt humbly declare, (as formerly they have done) that they are no way conſcious of any diſloyalty, but ab<g ref="char:EOLhyphen"/>horre all thoughts thereof: And that they are reſol<g ref="char:EOLhyphen"/>ved to make good their late ſolemn Proteſtation and Sacred vow made to Almighty God, and with the laſt drop of their deareſt bloods to defend and main<g ref="char:EOLhyphen"/>taine <hi>The true Reformed Proteſtant Religion, and accor<g ref="char:EOLhyphen"/>ding to the duty of their Allegiance, Your Majeſties roy<g ref="char:EOLhyphen"/>all Perſon, Honour and Eſtate,</hi> (what ever is maliciouſ<g ref="char:EOLhyphen"/>ly and moſt falſely ſuggeſted to your Majeſty to the contrary) as well as <hi>The Power and Priviledges of Par<g ref="char:EOLhyphen"/>liament,</hi> and <hi>the lawfull Rights and Liberties of the Sub<g ref="char:EOLhyphen"/>ject:</hi> And doe hereby engage themſelves, their E<g ref="char:EOLhyphen"/>ſtates, and all they have, to their uttermoſt power, to defend and preſerve your Majeſty and both Hou<g ref="char:EOLhyphen"/>ſes of Parliament from all tumults, affronts, and Vio<g ref="char:EOLhyphen"/>lence; with as much loyalty, love, and duty, as ever Citizens expreſſed towards Your Majeſty, or any of Your Royall Progenitours in their greateſt Glory.</p>
+                        <p>The Petitioners therefore upon their bended knees doe moſt humbly beſeech your Majeſty to returne to Your Parliament (accompanyed with Your Royall, not Your Martiall Attendance) to the end that Re<g ref="char:EOLhyphen"/>ligion, Laws, and Liberties may be ſetled and ſecu<g ref="char:EOLhyphen"/>red, and whatſoever is amiſſe in Church and Com<g ref="char:EOLhyphen"/>mon-wealth, reformed by their advice, according to the fundamentall Conſtitutions of this Kingdome; And that ſuch a Peace may thereby be obtained, as ſhall be for the glory of God, the honour and hap<g ref="char:EOLhyphen"/>pineſſe of your Majeſty and Poſterity, and the ſafety
+<pb n="4" facs="tcp:54859:4"/>
+                           <!-- PDF PAGE 77 -->and Welfare of all your Loyall Subjects, who (the Petitioners are fully aſſured, whatſoever is given out to the contrary) doe unanimouſly deſire the Peace herein expreſſed.</p>
+                        <closer>
+                           <signed>And the Petitioners ſhall ever Pray, &amp;c. <hi>MICHEL<gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THis being done, the Kings Meſſenger being wiſhed to reade his Majeſties Anſwer to that Petition, made ſome apology to be excuſed, partly willing to intimate that his Commiſsion was but to deliver the Anſwer to the Lord Major, (which ſeemed very ſtrange to ſtanders by, who were ready to conclude that if his Majeſties Command had beene of no larger extent, the trouble of a <hi>Common-hall</hi> might well have beene ſpared) and partly pleading the in<g ref="char:EOLhyphen"/>audibleneſſe of his voyce in ſuch a vaſt Aſſembly, but being deemed the fitteſt for that ſervice by the Honourable Com<g ref="char:EOLhyphen"/>mittee, the Lord Major and his Brethren, he then read his Majeſties Anſwer, which here followes.</p>
+            <q>
+               <pb n="5" facs="tcp:54859:4"/>
+               <!-- PDF PAGE 77 -->
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="reply_to_petition">
+                        <head>His Majeſty hath gratiouſly conſidered this Petition, and re<g ref="char:EOLhyphen"/>turnes this Anſwer.</head>
+                        <p>
+                           <seg rend="decorInit">T</seg>Hat His Majeſty doth not entertain any miſ-apprehenſion of the love and loy<g ref="char:EOLhyphen"/>alty of his City of <hi>London.</hi> As he hath alwayes expreſſed a ſingular regard and eſteeme of the affections of that Ci<g ref="char:EOLhyphen"/>ty, and is ſtill deſirous to make it his chiefe place of reſidence, and to continue and renew many marks of His favour to it; So He beleeves much the better and greater part of that His City is full of love, duty, and loyalty to His Majeſty: And that the Tumults which heretofore forced His Majeſty for His ſafety to leave that place, though they were contrived and encou<g ref="char:EOLhyphen"/>raged by ſome principall members thereof (who are ſince well knowne, though they are above the reach of Juſtice) conſiſted more of deſperate perſons of the Suburbs, and the neighbouring Townes (who were miſled too by the cunning and malice of their ſedu<g ref="char:EOLhyphen"/>cers) than of the Inhabitants of that City. He looks on His good ſubjects there as perſons groaning un<g ref="char:EOLhyphen"/>der the ſame burden which doth oppreſſe His Maje<g ref="char:EOLhyphen"/>ſty, and awed by the ſame perſons who begat thoſe Tumults, and the ſame Army which gave Battell to His Majeſty: And therefore as no good ſubject can more deſire from His ſoule a Compoſure of the ge<g ref="char:EOLhyphen"/>nerall Diſtractions, ſo no good Citizen can more de<g ref="char:EOLhyphen"/>ſire the eſtabliſhment of the particular peace and pro<g ref="char:EOLhyphen"/>ſperity of that place by His Majeſties acceſſe thither, then His Majeſty Himſelfe doth.</p>
+                        <p>
+                           <pb n="6" facs="tcp:54859:5"/>
+                           <!-- PDF PAGE 78 -->
+But his Majeſty deſires His good ſubjects of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> ſeriouſly to conſider what confidence His Maje<g ref="char:EOLhyphen"/>ſty can have of ſecurity there, whileſt the Lawes of the Land are ſo notoriouſly deſpiſed and trampled under foot, and the wholeſome Government of that City (heretofore ſo famous over all the world) is now ſubmitted to the Arbitrary power of a few deſerate perſons of no reputation, but for malice and diſloyal<g ref="char:EOLhyphen"/>ty to him: Whileſt Armes are taken up not onely without, but againſt His conſent and expreſſe com<g ref="char:EOLhyphen"/>mand, and Collections publiquely made, and Con<g ref="char:EOLhyphen"/>tributions avowed for the maintenance of the Army which hath given Him Battell, and therein uſed all poſſible meanes, Treaſon and Malice could ſuggeſt to them to have taken His life from Him, and to have deſtroyed His Royall Iſſue, whileſt ſuch of His Ma<g ref="char:EOLhyphen"/>jeſties ſubjects, who out of duty and affection to His Majeſty, and compaſſion of their bleeding Countrey, have laboured for Peace, are reviled, in<g ref="char:EOLhyphen"/>jured, and murdered, even by the Magiſtrates of that City, or by their directions: Laſtly, what hope His Majeſty can have of ſafety there, whileſt Alderman <hi>Pennington,</hi> their pretended Lord Major, (the prin<g ref="char:EOLhyphen"/>cipall authour of thoſe Calamities which ſo neerely threaten the ruine of that famous City) <hi>Ven, Foulke,</hi> and <hi>Mainwaring,</hi> (all perſons notoriouſly guilty of Schiſme and High Treaſon) commit ſuch Out<g ref="char:EOLhyphen"/>rages in oppreſſing, robbing, and impriſoning, ac<g ref="char:EOLhyphen"/>cording to their diſcretion, all ſuch His Majeſties lo<g ref="char:EOLhyphen"/>ving ſubjects, whom they are pleaſed to ſuſpect but for wiſhing well to His Majeſty: And His Ma<g ref="char:EOLhyphen"/>jeſty would know whether the Petitioners beleeve that the reviling and ſuppreſſing the Booke of
+<pb n="7" facs="tcp:54859:5"/>
+                           <!-- PDF PAGE 78 -->Common Prayer (eſtabliſht in this Church ever ſince the Reformation) the diſcountenancing and impriſoning godly, learned, and painefull Prea<g ref="char:EOLhyphen"/>chers, and the cheriſhing and countenancing of Browniſts, Anabaptiſts, and all manner of Sectaries, be the way to defend and maintaine the true Refor<g ref="char:EOLhyphen"/>med Proteſtant Religion? That to comply with, and aſſiſt perſons who have actually attempted to kill His Majeſty, And to allow and favour Libels, Paſquils, and ſeditious Sermons againſt His Majeſty, be to defend his Royall Perſon and Honour accor<g ref="char:EOLhyphen"/>ding to the duty of their Allegiance <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Whether to impriſon mens perſons, and to Plunder their houſes becauſe they will not rebell againſt his Majeſty, nor aſſiſt thoſe that doe? Whether to deſtroy their Pro<g ref="char:EOLhyphen"/>perty by taking away the twentieth part of their E<g ref="char:EOLhyphen"/>ſtates from them, and by the ſame Arbitrary power to referre to foure ſtanders by of their owne Faction to judge what that twentieth part is, be to defend the lawfull Rights and Liberties of the ſubject? And if they thinke theſe Actions to be inſtances of either, whether they do not know the perſons before named to be guilty of them all? Or whether they thinke it poſſible that Almighty God can bleſſe that City and preſerve it from deſtruction, whileſt perſons of ſuch knowne guilt and wickedneſſe are defended and juſti<g ref="char:EOLhyphen"/>fied amongſt them againſt the power of that Law, by which they can onely ſubſiſt?</p>
+                        <p>His Majeſtie is ſo farre from ſuffering Himſelfe to be incenſed againſt the whole Citie, by the Actions of theſe ill men, though they have hitherto beene ſo prevailent, as to make the Affections of the reſt of little uſe to Him; And is ſo willing to be with them,
+<pb n="8" facs="tcp:54859:6"/>
+                           <!-- PDF PAGE 79 -->and to protect them, that the Trade, Wealth, and Glory thereof (ſo decayed and ecclipſed by theſe publike Diſtractions) may againe bee the envie of all forrain Nations, That He doth once more graci<g ref="char:EOLhyphen"/>ouſly offer His free and generall pardon to all the In<g ref="char:EOLhyphen"/>habitants of that His Citie of <hi>London,</hi> the Suburbs, &amp; Citie of <hi>Weſtminſter</hi> (except the Perſons formerly excepted by Mis Majeſtie) if they ſhall yet returne to their Dutie, Loyaltie, and Obedience. And if his good Subjects of that His Citie of <hi>London</hi> ſhall firſt ſo<g ref="char:EOLhyphen"/>lemnly declare, That they will defend the knowne Lawes of the Land, and will ſubmit to, and be go<g ref="char:EOLhyphen"/>verned by no other Rule; If they ſhall firſt manifeſt, by defending themſelves, and maintayning their own Rights, Liberties, and Intereſts, and ſuppreſſing any Force and Violence unlawfully rayſed againſt thoſe and His Majeſtie, their Power to defend and preſerve Him from all Tumults, Affronts and Vio<g ref="char:EOLhyphen"/>lence: Laſtly, if they ſhall apprehend and commit to ſafe cuſtody the Perſons of thoſe foure men, who enrich themſelves by the ſpoyle and oppreſſion of His loving Subjects, and the ruine of the Citie, that His Majeſtie may proceed againſt them by the courſe of Law, as guiltie of high Treaſon, His Majeſtie will ſpeedily returne to them with His Royall, and with<g ref="char:EOLhyphen"/>out His Martiall Attendance, and will uſe his utmoſt endeavour that they may hereafter enjoy all the bleſſings of Peace and Plentie, and will no longer ex<g ref="char:EOLhyphen"/>pect Obedience from them, then Hee ſhall with all the Faculties of His Soul labour in the preſerving and advancing <hi>The true reformed Proteſtant Religion; The Lawes of the Land; The Libertie and Proprietie of the Subject;</hi> and <hi>The juſt Priviledges of Parliament.</hi>
+                        </p>
+                        <p>
+                           <pb n="9" facs="tcp:54859:6"/>
+                           <!-- PDF PAGE 79 -->
+If notwithſtanding all this, the Art and intereſt of thoſe men can prevaile ſo farre, that they involve more men in in their guilt, and draw that His City to ſacrifice it's pre<g ref="char:EOLhyphen"/>ſent Happineſſe and future Hopes to their Pride, Fury, and Malice, His Majeſty ſhall onely give them this War<g ref="char:EOLhyphen"/>ning, That whoſoever ſhall henceforward, take up Arms without his conſent contribute any Money or Plate, upon what pretence of Authority ſoever, for maintenance of the Army under the Command of the Earle of <hi>Eſſex,</hi> or any other Army in Rebellion againſt Him, or ſhall pay Tonnage and Poundage, till the ſame ſhall be ſetled by Act of Parliament; Every ſuch Perſon muſt expect the ſevereſt puniſhment the Law can inflict; and in the mean time His Majeſty ſhall ſeize upon any part of his Eſtate within His Power, for the relief and ſupport of him and His Army rais'd and maintain'd for the Defence of His Perſon, the Lawes, and this His Kingdome; And ſince he denyes to His Majeſty the duty and benefit of his ſubjecti<g ref="char:EOLhyphen"/>on, by giving aſſiſtance to Rebells, which by the knowne Lawes of the Land is high Treaſon, His Majeſty ſhall likewiſe deny him the benefit of his Protection, and ſhall not only ſignifie to all His Forraigne Miniſters, that ſuch Perſon ſhall-receive no advantage by being His Subject, but ſhall by all other wayes and meanes proceed againſt him as a publike Enemy to His Majeſty, &amp; this Kingdom.</p>
+                        <p>But His Majeſty hopes and doubts not, but his good Subjects of <hi>London</hi> will call to minde the Acts of their Predeceſſors, their Duty, Affection, Loyalty and merit towards their Princes, the Renown they have had with all poſterity from and the bleſſings of Heaven which alwayes accompanied thoſe virtues, and will conſider the perpetu<g ref="char:EOLhyphen"/>all ſcorne and infamy, which unadvoidably will follow
+<pb n="10" facs="tcp:54859:7"/>
+                           <!-- PDF PAGE 80 -->them and their Children, if infinitely the meaner part in quality, and much the leſſer part in number, ſhall be a <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> to alter the Government ſo admirably eſtabliſhed, deſtroy the Trade ſo excellently ſetled, and to waſte the wealth <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> induſtrouſly gotten, of that flouriſhing City; And th<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> they will eaſily gaine up the Courage and Reſolution to joyne with His Majeſty in defence of the Religion, Law and Liberty, which hitherto hath and only can make them<g ref="char:EOLhyphen"/>ſelves, His Majeſty, and His Kingdome happy.</p>
+                        <p>For concurring with the Advice of His two Houſes of Parliament, being with Reference to the Common-wealth may be as well at this diſtance, as being at <hi>White-hall,</hi> His Majeſty doubts not but His good Subjects of <hi>London</hi> well know how farre (beyond the example of His Predeceſ<g ref="char:EOLhyphen"/>ſors) His Majeſty hath concurred with their advice, in paſſing of ſuch Lawes, by which He willingly hath parte<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> with many of His knowne Rights, for the benefit of the Subjects, which the Fundamentall Conſtitutions of this Kingdome did now oblige Him to conſent unto, and hath uſed all poſſible meanes to beget a right underſtanding be<g ref="char:EOLhyphen"/>tweene them; And will therefore apply themſelves to thoſe who, by making Juſt, Peaceable, &amp; Honourable Pre<g ref="char:EOLhyphen"/>poſitions to His Majeſty, can only beget that concurrence.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After he had read it once upon the Huſtings, in the audience of thoſe Honourable perſons, was (for the helpe of the lowneſſe of his voice, and the advantage of the great multitudes in the Hall) willed the ſecond time to read the ſame Anſwer in the Clock-houſe, in the audience of the bodie of that Aſſembly, among whom, after he had finiſhed his worke, an inconſiderable company neere the doore made ſome offers to<g ref="char:EOLhyphen"/>wards an acclamation, but finding no expected Eccho to anſwer their ſhout, wound up in a little modeſtie and a great deale of ſilence, upon which the Earle of <hi>Mancheſter</hi> declared in his Speech as followeth.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
